@@ -1,8 +1,8 @@
 #include <dlfcn.h>
 #include <stdio.h>
 
-#define OK      1
-#define FAIL    0
+#define OK      0
+#define FAIL    1
 #define LIBNAME "./libprtr.so.1.0"
 #define FUNAME  "print"
 
